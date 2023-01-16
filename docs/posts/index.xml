@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zlab workshop</title>
-    <link>https://marcelfarres.github.io/zlab-git-workshop/</link>
-    <description>Recent content on Zlab workshop</description>
+    <title>Posts on Zlab workshop</title>
+    <link>https://marcelfarres.github.io/zlab-git-workshop/posts/</link>
+    <description>Recent content in Posts on Zlab workshop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Jan 2023 05:53:53 -0500</lastBuildDate><atom:link href="https://marcelfarres.github.io/zlab-git-workshop/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Jan 2023 05:53:53 -0500</lastBuildDate><atom:link href="https://marcelfarres.github.io/zlab-git-workshop/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Some other info</title>
       <link>https://marcelfarres.github.io/zlab-git-workshop/posts/someotherinfo/</link>
