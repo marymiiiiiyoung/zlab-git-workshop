@@ -10,5 +10,8 @@ This is **bold** text, and this is *emphasized* text.
 
 there is some new text
 
-
 Hello this is Miyoung~
+
+Amour's comment 
+
+change
