@@ -11,3 +11,7 @@ This is **bold** text, and this is *emphasized* text.
 there is some new text
 
 ceci n'est pas un text file
+
+change
+
+another change
