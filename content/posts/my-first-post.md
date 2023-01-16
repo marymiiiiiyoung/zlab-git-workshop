@@ -10,6 +10,6 @@ This is **bold** text, and this is *emphasized* text.
 
 there is some new text
 
-Amour's comment 
-
 change
+
+another change
