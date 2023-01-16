@@ -1,0 +1,4 @@
+baseURL = 'https://marcelfarres.github.io/zlab-git-workshop/'
+languageCode = 'en-us'
+title = 'Zlab workshop'
+theme = 'ananke'
